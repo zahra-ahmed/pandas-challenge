@@ -1,0 +1,6 @@
+Data Observations
+---------------------------
+1. The game seems to be the most popular with males (84.03%) and players between the ages of 20-24 (44.79%).
+2. On average, players of ages between 35-39 spend the most money on the game per person ($4.76), and surprisingly ages below 10 are a close second ($4.54).
+3. The top 5 most profitable items are all priced above $4.00.
+---------------------------
